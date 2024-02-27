@@ -39,7 +39,7 @@ void freeGraph(Graph graph){
 int main(){
     int numVertices = 4;
     Graph graph = createGraph(numVertices);
-    addEdge(graph,0,1);
+    addEdge(graph,2,3);
     printGraph(graph);
     freeGraph(graph);
     return 0;
