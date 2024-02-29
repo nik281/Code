@@ -1,0 +1,2 @@
+
+read and write other form first write and then read mode
