@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<students>
+    <std>
+        <name>s1</name>
+        <mk>100</mk>
+    </std>
+    <std>
+        <name>s2</name>
+        <mk>90</mk>
+    </std>
+</students>
